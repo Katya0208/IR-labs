@@ -1,0 +1,5 @@
+files=28866
+bytes_total=738409305
+tokens_total=89364742
+unique_terms=587430
+topN=20
